@@ -13,7 +13,7 @@ const Error404 = () => {
                THE PAGE YOU ARE LOOKING FOR MIGHT HAVE BEEN REMOVED HAD ITS
                 NAME CHANAGED OR IS TEMPORARILY UNAVAILABLE.
            </p>
-           <NavLink to='/newreactweb' >Back to Homepage</NavLink>
+           <NavLink to='/newreactweb/' >Back to Homepage</NavLink>
     </div>
 
 </div>
